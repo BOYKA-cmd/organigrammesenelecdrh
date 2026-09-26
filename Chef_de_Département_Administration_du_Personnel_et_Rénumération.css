@@ -1,0 +1,336 @@
+body{
+	font-family: Verdana;
+	color: white;
+	background-color: #FFF;
+    font-size: 13px;
+    position: relative;
+    min-height: 1200px;
+}
+h1{
+	color: blue;
+	text-align: center;
+	font-family: Algerian;
+	font-size: 50px;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+div[class]{
+	background-color: rgb(000, 138, 156, 0.85);
+	border-radius: 12px;
+	box-shadow:5px 5px 1px rgb(255, 165, 000 );
+}
+div[class='ligne-h trait-h1']{
+	box-shadow: none;
+}
+div[class='ligne-h trait-h2']{
+	box-shadow: none;
+}
+div[class='ligne-h trait-h3']{
+	box-shadow: none;
+}
+div[class='ligne-h trait-h4']{
+	box-shadow: none;
+}
+div[class='ligne-h trait-h5']{
+	box-shadow: none;
+}
+div[class='ligne-h trait-h6']{
+	box-shadow: none;
+}
+div[class='ligne-v stub1']{
+	box-shadow: none;
+}
+div[class='ligne-v stub2']{
+	box-shadow: none;
+}
+div[class='ligne-v stub3']{
+	box-shadow: none;
+}
+div[class='ligne-v stub4']{
+	box-shadow: none;
+}
+div[class='ligne-v stub5']{
+	box-shadow: none;
+}
+div[class='ligne-v stub6']{
+	box-shadow: none;
+}
+div[class='ligne-v stub7']{
+	box-shadow: none;
+}
+div[class='ligne-v stub8']{
+	box-shadow: none;
+}
+div[class='ligne-v stub9']{
+	box-shadow: none;
+}
+div[class='ligne-v stub10']{
+	box-shadow: none;
+}
+div[class='ligne-v stub11']{
+	box-shadow: none;
+}
+div[class='ligne-v stub12']{
+	box-shadow: none;
+}
+div[class='ligne-v stub13']{
+	box-shadow: none;
+}
+div[class='ligne-v stub14']{
+	box-shadow: none;
+}
+div[class='ligne-v stub15']{
+	box-shadow: none;
+}
+div[class='ligne-v stub16']{
+	box-shadow: none;
+}
+div[class='ligne-v stub17']{
+	box-shadow: none;
+}
+div[class='ligne-v stub18']{
+	box-shadow: none;
+}
+div[class='ligne-v stub19']{
+	box-shadow: none;
+}
+#p1{
+	color: rgb(000, 138, 156);
+}
+.p1{
+	font-weight: bold;
+	color: yellow;
+}
+.p2{
+	color: blue;
+}
+.p3{
+	color: red;
+	font-weight: 800;
+}
+#div1{
+	text-align: center;
+	border: 2px none ;
+	width: 250px;
+	position: absolute;
+	left: 550px;
+	top: 200px;
+	background-color: rgb(255, 165, 000 );
+	box-shadow: 5px 5px 1px rgb(000, 138, 156);
+	border-radius: 12px;
+}
+.div2{
+	text-align: center;
+	border: 2px none black;
+	width: 200px;
+	position: absolute;
+	top: 350px;
+	left: 430px;
+	height: 90px;
+}
+.div3{
+	text-align: center;
+	border: 2px none black;
+	width: 200px;
+	position: absolute;
+	top:350px;
+	left: 720px;
+	height: 90px;
+}
+.div4{
+	text-align: center;
+	border: 2px none black;
+	width: 200px;
+	position: absolute;
+	left: 100px;
+	top: 500px;
+	height: 100px;
+}
+.div5{
+	text-align: center;
+	border: 2px none black;
+	width: 210px;
+	position: absolute;
+	right: 250px;
+	top: 500px;
+	height: 100px;
+}
+.div6{
+	text-align: center;
+	border: 2px none black;
+	width: 200px;
+	position: absolute;
+	top: 580px;
+	height: 70px;
+	left: 320px;
+	line-height: 10px;
+}
+.div7{
+	text-align: center;
+	border: 2px none black;
+	width: 200px;
+	position: absolute;
+	top: 580px;
+	height: 70px;
+	right: 10px;
+	line-height: 10px;
+}
+.div8{
+	text-align: center;
+	border: 2px none black;
+	width: 200px;
+	position: absolute;
+	top: 700px;
+	height: 90px;
+	line-height: 12px;
+}
+.div9{
+	text-align: center;
+	border: 2px none black;
+	width: 200px;
+	position: absolute;
+	top: 700px;
+	left: 250px;
+	height: 90px;
+	line-height: 12px;
+}
+.div10{
+	text-align: center;
+	border: 2px none black;
+	width: 200px;
+	position: absolute;
+	top: 700px;
+	left: 840px;
+	height: 90px;
+	line-height: 10px;
+}
+.div11{
+	text-align: center;
+	border: 2px none black;
+	width: 200px;
+	position: absolute;
+	right: 30px;
+	top: 700px;
+}
+.div12{
+	text-align: center;
+	border: 2px none black;
+	width: 200px;
+	position: absolute;
+	top: 850px;
+	height: 130px;	
+}
+.div13{
+	text-align: center;
+	border: 2px none black;
+	width: 200px;
+	position: absolute;
+	top: 850px;
+	left: 250px;
+	height: 130px;
+}
+.div14{
+	text-align: center;
+	border: 2px none black;
+	width: 200px;
+	position: absolute;
+	top: 850px;
+	right: 470px;
+	height: 130px;
+}
+.div15{
+	text-align: center;
+	border: 2px none black;
+	width: 200px;
+	position: absolute;
+	top: 850px;
+	right: 30px;
+	height: 130px;
+}
+.ligne-v{/*Lignes verticaux*/
+    position: absolute;
+    width: 5px;
+    background-color: black 
+}
+.ligne-h{/*Lignes horizontales*/
+    position: absolute;
+    height: 5px;
+    background-color: black /*rgb(000, 138, 156)*/;
+}
+.trait-h1{ 
+	top: 390px; left: 630px; right: 785px;
+}
+.trait-h2{ 
+	top: 450px; left: 210px; right: 350px;
+}
+.trait-h3{ 
+	top: 660px; left: 100px; right: 1150px;
+}
+.trait-h4{ 
+	top: 620px; right: 210px; width: 142px;
+}
+.trait-h5{ 
+	top: 660px; left: 930px; right: 130px;
+}
+.trait-h6{ 
+	top: 620px; left: 210px; width: 110px;
+}
+.stub1{
+	 top:315px; left:675px; height: 140px; 
+}
+.stub2{ 
+	top: 450px; left: 210px; height: 50px;
+}
+.stub3{
+ 	top: 450px; right: 350px; height: 50px;
+}
+.stub4{ 
+	top: 660px; left: 100px; height: 40px;
+}
+.stub5{
+	top: 660px; left: 350px; height: 40px;
+}
+.stub6{
+	top: 660px; left: 930px; height: 40px;
+}
+.stub7{
+	top: 660px; right:130px; height: 40px;
+}
+.stub8{
+	top: 790px; left: 100px; height: 60px;
+}
+.stub9{
+	top: 790px; left: 348px; height: 60px;
+}
+.stub10{
+	top: 825px; right:130px; height: 25px;
+}
+.stub11{
+	top: 790px; right:568px; height: 60px;
+}
+.stub12{
+	top: 600px; right:350px; height: 60px;
+}
+.stub13{
+	top: 600px; left:210px; height: 60px;
+}
+img{
+	width: 150px;
+	position: absolute;
+	top:-15px;
+}
+#div1, .div2, .div3, .div4, .div5, .div6, .div7, .div8, .div9, .div10, .div11, .div12,
+.div13, .div14, .div15, .div16, .div17, .div18 {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+#div1:hover, .div2:hover, .div3:hover, .div4:hover, .div5:hover, .div6:hover, .div7:hover, .div8:hover, .div9:hover,
+.div10:hover, .div11:hover, .div12:hover, .div13:hover, .div14:hover,
+.div15:hover, .div16:hover, .div17:hover, .div18:hover {
+    transform: scale(1.05);
+    box-shadow: 8px 8px 4px rgba(0,0,0,0.4);
+    z-index: 10;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
