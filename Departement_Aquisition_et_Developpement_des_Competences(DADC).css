@@ -1,10 +1,12 @@
 body{
 	font-family: Verdana;
-	color: white;;
+	color: white;
 	background-color: #FFF;
     font-size: 13px;
     position: relative;
     min-height: 1200px;
+	width: 1600px
+	overflow-x: auto;
 }
 h1{
 	color: blue;
@@ -372,4 +374,9 @@ img{
 a {
     text-decoration: none;
     color: inherit;
+}
+@media  (min-width: 12000px){
+	 body{
+	 	width: 90%;
+	 }
 }
