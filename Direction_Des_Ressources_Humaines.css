@@ -5,6 +5,8 @@ body{
     font-size: 13px;
     position: relative;
     min-height: 1700px;
+	width: 1600px;
+	overflow-x: auto;
 }
 h1{
 	color: blue;
@@ -375,4 +377,9 @@ span{
 a {
     text-decoration: none;
     color: inherit;
+}
+@media  (min-width: 12000px){
+	 body{
+	 	width: 90%;
+	 }
 }
